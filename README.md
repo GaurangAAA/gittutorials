@@ -1,11 +1,20 @@
-# cardiovascular disease analysis
-This project uses Machine Learning to predict cardiovascular disease.
+# Cardiovascular Disease Analysis
+
+## Project Overview
+This project uses Machine Learning techniques to predict the likelihood of cardiovascular disease based on patient health data.
 
 ## Technologies Used
 - Python
 - Pandas
+- NumPy
 - Scikit-learn
 - Jupyter Notebook
 
+## Features
+- Data preprocessing
+- Model training
+- Disease prediction
+- Performance evaluation
+
 ## Files
-- cardiovascular disease analysis .ipynb
+- Cardiovascular Disease Analysis (1).ipynb
