@@ -17,4 +17,4 @@ This project uses Machine Learning techniques to predict the likelihood of cardi
 - Performance evaluation
 
 ## Files
-- Cardiovascular Disease Analysis (1).ipynb
+- Cardiovascular Disease Analysis.ipynb
