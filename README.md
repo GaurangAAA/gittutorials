@@ -153,6 +153,6 @@ Future improvements may include:
   
 ## Author
 
-Heart Disease Prediction Using Deep Learning Project
+Cardiovascular Disease Analysis/Heart Disease Prediction Using Deep Learning Project
 
 Developed using Python, Scikit-Learn, and PyTorch.
